@@ -1,0 +1,19 @@
+.header {
+    /* background-color: rgb(31, 31, 31); */
+    /* #a892ee */
+    padding: 1rem;
+    margin: 2rem auto;
+    width: 50rem;
+    max-width: 95%;
+    border-radius: 12px;
+    text-align: center;
+    font-size: 30px;
+    color: black;
+    font-weight: bold;
+    /* box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25); */
+    font-family: 'Century Gothic';
+}
+.header img{
+    height: 50px;
+    margin: 0rem 0rem 0rem 0.5rem;
+}
